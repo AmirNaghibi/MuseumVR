@@ -1,7 +1,7 @@
 # MuseumVR
 
 **NOTE:**
-This project is in research and development phase. The MVP of the project will be deployed on (or before) AUG.18.2018 
+This project is in research and development phase. The MVP of the project will be deployed on (or before) AUG.20.2018 
 
 Browser Compatible Virtual Reality Museum implemented in Web VR
 
