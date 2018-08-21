@@ -1,7 +1,9 @@
 # MuseumVR
 
 **NOTE:**
-This project is in research and development phase. The MVP of the project will be deployed on (or before) AUG.20.2018 
+click [here](https://intro-to-webvr-amir.glitch.me/) to visit the VR in your browser.
+
+The source code is hosted locally and is currently under development.
 
 Browser Compatible Virtual Reality Museum implemented in Web VR
 
